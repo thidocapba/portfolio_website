@@ -12,7 +12,7 @@ const Hero = () => (
         My Personal Portfolio
       </SectionTitle>
       <SectionText>
-      A passionate, self-motivated, and hardworking graduated student looking for an entry-level/intern position as a data engineer.
+      A passionate, self-motivated, and hardworking graduated student looking for an entry-level/intern position as a web development.
       </SectionText>
       <Button onClick={() => window.location = 'https://www.facebook.com/dunglodeptrai'}>More</Button>
     </LeftSection>
